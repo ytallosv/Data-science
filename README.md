@@ -20,6 +20,7 @@ Development career focused on technology and finance, knowledge and experience w
 
 
 ## Projetos:
+* [Analisando dados do Airbnb] (Analisando_dados_do_Airbnb.ipynb)
 
 
 
