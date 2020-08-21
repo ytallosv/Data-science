@@ -20,7 +20,7 @@ Development career focused on technology and finance, knowledge and experience w
 
 
 ## Projetos:
-* [Analisando dados do Airbnb] (https://github.com/ytallosv/Data-science/blob/master/Analisando_dados_do_Airbnb.ipynb)
+* [Analisando dados do Airbnb](https://github.com/ytallosv/Data-science/blob/master/Analisando_dados_do_Airbnb.ipynb)
 
 
 
